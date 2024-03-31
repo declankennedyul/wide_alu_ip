@@ -1,1 +1,0 @@
-../register_interface/register_interface/vendor/lowrisc_opentitan/util/regtool.py
